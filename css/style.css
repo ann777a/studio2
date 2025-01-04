@@ -52,8 +52,11 @@ a {
     color: currentColor;
 }
 
-.header-logo .logo-part,
-.footer-logo .logo-part{
+.header-logo .logo-part{
+    color: #2e2f42;
+}
+
+footer-logo .logo-part{
     color: #f4f4fd;
 }
 
@@ -83,7 +86,7 @@ a {
 }
 
 .contact{
-    color: currentColor;
+    font-style: normal;
 }
 
 .contacts-link:hover,
