@@ -42,7 +42,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: currentColor;
 }
 
 .nav-item{
@@ -65,9 +65,7 @@ a {
     color: #434455;
 }
 
-.contacts-link:hover{
-    color: #404bbf;
-}
+.contacts-link:hover,
 .contacts-link:focus{
     color: #404bbf;
 }
