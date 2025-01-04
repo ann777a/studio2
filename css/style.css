@@ -89,8 +89,8 @@ footer-logo .logo-part{
     font-style: normal;
 }
 
-.contacts-link:hover,
-.contacts-link:focus{
+.contacts:hover,
+.contacts:focus{
     color: #404bbf;
 }
 
