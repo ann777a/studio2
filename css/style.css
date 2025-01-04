@@ -54,7 +54,9 @@ a {
     color: #434455;
 }
 
-.contacts-link:hover
+.contacts-link:hover{
+    color: #404bbf;
+}
 .contacts-link:focus{
     color: #404bbf;
 }
